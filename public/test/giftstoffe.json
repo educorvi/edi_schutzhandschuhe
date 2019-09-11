@@ -1,0 +1,247 @@
+{
+  "@components": {
+    "actions": {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/@actions"
+    },
+    "breadcrumbs": {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/@breadcrumbs"
+    },
+    "navigation": {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/@navigation"
+    },
+    "workflow": {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/@workflow"
+    }
+  },
+  "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe",
+  "@type": "Folder",
+  "UID": "3003144d02124beb9d091b17a5621ed3",
+  "allow_discussion": false,
+  "batching": {
+    "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe",
+    "first": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe?b_start=0",
+    "last": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe?b_start=25",
+    "next": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe?b_start=25"
+  },
+  "contributors": [],
+  "created": "2017-08-21T17:27:05+02:00",
+  "creators": [
+    "admin",
+    "tarassow.renate@bgetem.de"
+  ],
+  "description": "",
+  "dguvcolor": null,
+  "effective": "2017-08-21T21:52:16",
+  "exclude_from_nav": false,
+  "expires": null,
+  "id": "reinstoffe",
+  "imagepath": null,
+  "is_folderish": true,
+  "items": [
+    {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/1-methoxy-2-propanol-propylenglykol-1-methylether",
+      "@type": "Gefahrstoff",
+      "description": "",
+      "review_state": "published",
+      "title": "1-Methoxy-2-propanol / Propylenglykol-1-methylether"
+    },
+    {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/1-methoxy-2-propylacetat-propylenglykol-1-methylether-2-acetat-mpa",
+      "@type": "Gefahrstoff",
+      "description": "",
+      "review_state": "published",
+      "title": "1-Methoxy-2-propylacetat / Propylenglykol-1-methylether-2-acetat / MPA"
+    },
+    {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/2-propanol-ipa-isopropanol-isopropylalkohol",
+      "@type": "Gefahrstoff",
+      "description": "",
+      "review_state": "published",
+      "title": "2-Propanol / IPA / Isopropanol / Isopropylalkohol"
+    },
+    {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/4-hydroxy-4-methyl-2-pentanon-diacetonalkohol",
+      "@type": "Gefahrstoff",
+      "description": "",
+      "review_state": "published",
+      "title": "4-Hydroxy-4-methyl-2-pentanon / Diacetonalkohol"
+    },
+    {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/aceton",
+      "@type": "Gefahrstoff",
+      "description": "",
+      "review_state": "published",
+      "title": "Aceton"
+    },
+    {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/butylacetat-essigsaeurebutylester",
+      "@type": "Gefahrstoff",
+      "description": "",
+      "review_state": "published",
+      "title": "Butylacetat / Essigsäurebutylester"
+    },
+    {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/cyclohexan",
+      "@type": "Gefahrstoff",
+      "description": "",
+      "review_state": "published",
+      "title": "Cyclohexan"
+    },
+    {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/cyclohexanon",
+      "@type": "Gefahrstoff",
+      "description": "",
+      "review_state": "published",
+      "title": "Cyclohexanon"
+    },
+    {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/diethylenglykolmonobutylether-butyldiglykol",
+      "@type": "Gefahrstoff",
+      "description": "",
+      "review_state": "published",
+      "title": "Diethylenglykolmonobutylether / Butyldiglykol"
+    },
+    {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/dipropylenglycolmonomethylether-isomerengemisch-dipropylenglykolmethylether",
+      "@type": "Gefahrstoff",
+      "description": "",
+      "review_state": "published",
+      "title": "Dipropylenglycolmonomethylether (Isomerengemisch) / Dipropylenglykolmethylether"
+    },
+    {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/ethanol-ethylalkohol",
+      "@type": "Gefahrstoff",
+      "description": "",
+      "review_state": "published",
+      "title": "Ethanol / Ethylalkohol"
+    },
+    {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/ethylacetat-essigsaeureethylester",
+      "@type": "Gefahrstoff",
+      "description": "",
+      "review_state": "published",
+      "title": "Ethylacetat / Essigsäureethylester"
+    },
+    {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/kohlenwasserstoffe-20-aromaten",
+      "@type": "Gefahrstoff",
+      "description": "",
+      "review_state": "published",
+      "title": "Kohlenwasserstoffe (20% Aromaten)"
+    },
+    {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/kohlenwasserstoffe-aliphatisches-kw-gemisch",
+      "@type": "Gefahrstoff",
+      "description": "",
+      "review_state": "published",
+      "title": "Kohlenwasserstoffe (aliphatisches KW-Gemisch)"
+    },
+    {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/kohlenwasserstoffe-aromatenfreies-testbenzin-white-spirit",
+      "@type": "Gefahrstoff",
+      "description": "",
+      "review_state": "published",
+      "title": "Kohlenwasserstoffe (aromatenfreies Testbenzin / White Spirit)"
+    },
+    {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/kohlenwasserstoffe-aromatisches-kw-gemisch",
+      "@type": "Gefahrstoff",
+      "description": "",
+      "review_state": "published",
+      "title": "Kohlenwasserstoffe (aromatisches KW-Gemisch)"
+    },
+    {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/kohlenwasserstoffe-entaromatisiertes-kw-gemisch",
+      "@type": "Gefahrstoff",
+      "description": "",
+      "review_state": "published",
+      "title": "Kohlenwasserstoffe (entaromatisiertes KW-Gemisch)"
+    },
+    {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/kohlenwasserstoffe-mischung",
+      "@type": "Gefahrstoff",
+      "description": "",
+      "review_state": "published",
+      "title": "Kohlenwasserstoffe (Mischung)"
+    },
+    {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/kohlenwasserstoffe-naphtha",
+      "@type": "Gefahrstoff",
+      "description": "",
+      "review_state": "published",
+      "title": "Kohlenwasserstoffe (Naphtha)"
+    },
+    {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/methanol",
+      "@type": "Gefahrstoff",
+      "description": "",
+      "review_state": "published",
+      "title": "Methanol"
+    },
+    {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/methylethylketon-butanon-mek",
+      "@type": "Gefahrstoff",
+      "description": "",
+      "review_state": "published",
+      "title": "Methylethylketon / Butanon / MEK"
+    },
+    {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/n-heptan",
+      "@type": "Gefahrstoff",
+      "description": "",
+      "review_state": "published",
+      "title": "n-Heptan"
+    },
+    {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/toluol",
+      "@type": "Gefahrstoff",
+      "description": "",
+      "review_state": "published",
+      "title": "Toluol"
+    },
+    {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/ameisensaeure",
+      "@type": "Gefahrstoff",
+      "description": "",
+      "review_state": "published",
+      "title": "Ameisensäure 85%"
+    },
+    {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/essigsaeure-1",
+      "@type": "Gefahrstoff",
+      "description": "",
+      "review_state": "published",
+      "title": "Essigsäure 50-80%"
+    }
+  ],
+  "items_total": 31,
+  "kind": "categoryimg",
+  "language": "",
+  "layout": "listing_view",
+  "modified": "2019-02-18T10:29:25+01:00",
+  "nachfolger": null,
+  "newsimage": null,
+  "newstext": null,
+  "newstitle": null,
+  "nextPreviousEnabled": false,
+  "parent": {
+    "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe",
+    "@type": "Folder",
+    "description": "",
+    "review_state": "published",
+    "title": "Gefahrstoffe"
+  },
+  "relatedItems": [],
+  "review_state": "published",
+  "rights": null,
+  "subjects": [],
+  "text": null,
+  "title": "Reinstoffe",
+  "titleimages": [],
+  "version": "current",
+  "videopath": null,
+  "viewlet": "header",
+  "vorgaenger": null,
+  "webcode": "17760746",
+  "zufall": false
+}

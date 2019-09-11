@@ -1,28 +1,39 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+    <div id="app">
+        <Headbar/>
+        <div class="container-fluid root">
+            <b-card no-body v-if="!loading">
+                <b-card-header>
+                    <h5 class="m-0">{{$route.name}}</h5>
+                </b-card-header>
+                <b-card-body>
+                    <router-view/>
+                </b-card-body>
+            </b-card>
+
+
+            <div class="text-center mt-5" v-else>
+                <b-spinner variant="white"/>
+            </div>
+        </div>
+    </div>
 </template>
 
-<script>
-import HelloWorld from './components/HelloWorld.vue'
-
-export default {
-  name: 'app',
-  components: {
-    HelloWorld
-  }
-}
-</script>
-
 <style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+
+    .root {
+        padding-top: 70px;
+    }
+
 </style>
+<script>
+    import Headbar from "@/components/Navigation/Headbar";
+    import {mapGetters} from "vuex";
+
+    export default {
+        components: {Headbar},
+        computed: {
+            ...mapGetters(["loading"])
+        },
+    }
+</script>
