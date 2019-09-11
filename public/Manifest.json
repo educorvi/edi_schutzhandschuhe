@@ -1,0 +1,21 @@
+{
+  "name": "Handschuhe",
+  "short_name": "Handschuhe",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "Diese App hilt Ihnen bei der Auswahl der Sicherheitshandschuhe",
+  "icons": [
+    {
+      "src": "img/logo.png",
+      "sizes": "1240x456",
+      "type": "image/png"
+    },
+    {
+      "src": "img/logoSQ.png",
+      "sizes": "134x134",
+      "type": "image/png"
+    }
+  ]
+}
