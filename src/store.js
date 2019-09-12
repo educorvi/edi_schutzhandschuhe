@@ -20,7 +20,11 @@ export default new Vuex.Store({
             state.biologischeStoffe = s;
         }
     },
-    actions: {},
+    actions: {
+        getHandschuh(url) {
+            axios.get(url,)
+        }
+    },
 
     getters: {
         loading:
