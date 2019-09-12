@@ -18,6 +18,11 @@ export default new Router({
             name: 'Katalog',
             component: () => import("./views/Katalog")
         },
+        {
+            path: '/handschuh/:id',
+            name: 'Handschuh',
+            component: () => import("./views/Handschuh")
+        },
 
 
 

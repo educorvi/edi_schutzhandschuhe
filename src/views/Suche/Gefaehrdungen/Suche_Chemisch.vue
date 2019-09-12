@@ -6,8 +6,6 @@
             <b-collapse id="weitereGef">
                 <b-card-body>
                     <Gef_Biologisch keine="true"/>
-                    <md-divider class="mt-2 mb-2"/>
-                    <b-checkbox v-model="mechanisch">Mechanische Gefährdung (z. B. Arbeit mit spitzen oder scharfkantigen Gegenständen, Stosseinwirkung)</b-checkbox>
                 </b-card-body>
             </b-collapse>
         </b-card>
