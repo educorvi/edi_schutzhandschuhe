@@ -7,7 +7,7 @@
         <b-navbar-toggle target="collapse"></b-navbar-toggle>
 
         <b-collapse class="ml-n3 mr-n3" id="collapse" is-nav style="background: white; text-align: center">
-            <b-navbar-nav class="ml-auto">
+            <b-navbar-nav class="ml-auto border-bottom border-dark">
                 <b-nav-item to="/" exact-active-class="active">Home</b-nav-item>
                 <b-nav-item to="/suche" active-class="active">Suchen</b-nav-item>
                 <b-nav-item  to="/katalog" active-class="active">Katalog</b-nav-item>

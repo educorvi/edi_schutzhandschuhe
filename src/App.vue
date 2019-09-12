@@ -23,6 +23,7 @@
 
     .root {
         padding-top: 70px;
+        padding-bottom: 10px;
     }
 
 </style>
