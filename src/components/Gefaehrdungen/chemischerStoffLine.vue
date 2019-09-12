@@ -11,10 +11,11 @@
         name: "chemischerStoffLine",
         data() {
             return {
-                selected: null
             }
         },
-        props: ["gefahrstoffe", "index", "keine"]
+        computed: {
+        },
+        props: ["gefahrstoffe", "index", "keine", "selected"]
     }
 </script>
 

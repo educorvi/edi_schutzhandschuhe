@@ -1,0 +1,1214 @@
+{
+  "@components": {
+    "actions": {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@actions"
+    },
+    "breadcrumbs": {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@breadcrumbs"
+    },
+    "navigation": {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@navigation"
+    },
+    "workflow": {
+      "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@workflow"
+    }
+  },
+  "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403",
+  "@type": "Schutzhandschuh",
+  "UID": "a19516af98bd4c81945755457f58f368",
+  "abrieb": "1",
+  "allergene": [
+    "Dithiocarbamate",
+    "Thiurame",
+    "Maisstaerke",
+    "Naturlatex"
+  ],
+  "allow_discussion": false,
+  "bild": {
+    "content-type": "image/png",
+    "download": "/test/bild.png",
+    "filename": "Bildschirmfoto 2017-11-16 um 16.23.59.png",
+    "height": 1306,
+    "scales": {
+      "icon": {
+        "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@@images/bild/icon",
+        "height": 32,
+        "width": 13
+      },
+      "large": {
+        "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@@images/bild/large",
+        "height": 768,
+        "width": 331
+      },
+      "listing": {
+        "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@@images/bild/listing",
+        "height": 16,
+        "width": 6
+      },
+      "mini": {
+        "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@@images/bild/mini",
+        "height": 199,
+        "width": 86
+      },
+      "preview": {
+        "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@@images/bild/preview",
+        "height": 399,
+        "width": 172
+      },
+      "thumb": {
+        "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@@images/bild/thumb",
+        "height": 128,
+        "width": 55
+      },
+      "tile": {
+        "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@@images/bild/tile",
+        "height": 64,
+        "width": 27
+      }
+    },
+    "size": 520879,
+    "width": 564
+  },
+  "brennverhalten": null,
+  "cecategory": 3,
+  "chemikalienliste": [
+    "67-64-1",
+    "1310-73-2",
+    "7664-93-9"
+  ],
+  "contributors": [],
+  "created": "2017-10-26T10:15:48+02:00",
+  "creators": [
+    "lampe.franz@web.de",
+    "admin",
+    "tarassow.renate@bgetem.de"
+  ],
+  "effective": "2017-10-26T10:15:00",
+  "en407": false,
+  "en511": false,
+  "esd": false,
+  "exclude_from_nav": false,
+  "expires": null,
+  "fluessigesmetall": null,
+  "gefahrstoffschutz": [
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/4-hydroxy-4-methyl-2-pentanon-diacetonalkohol",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/1-methoxy-2-propanol-propylenglykol-1-methylether",
+      "zeit": "120"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/dipropylenglycolmonomethylether-isomerengemisch-dipropylenglykolmethylether",
+      "zeit": "120"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/1-methoxy-2-propylacetat-propylenglykol-1-methylether-2-acetat-mpa",
+      "zeit": "60"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/butylacetat-essigsaeurebutylester",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/cyclohexan",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/ethanol-ethylalkohol",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/kohlenwasserstoffe-aliphatisches-kw-gemisch",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/2-propanol-ipa-isopropanol-isopropylalkohol",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/methanol",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/methylethylketon-butanon-mek",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/n-heptan",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/toluol",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/eurostar-75-w",
+      "zeit": "120"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/eurostar-nv",
+      "zeit": "120"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/schwego-mat-8447",
+      "zeit": "120"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/elettra-uv-2.0",
+      "zeit": "60"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/eurostar-65-1.0",
+      "zeit": "60"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/rotationsreiniger-z",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/schwego-mat-8444",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/schwego-mat-8448",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/schwego-mat-8450",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/eurostar-65-4.0",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/newsclean-100-1.0",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/ultra-aa-wash",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/uniwash-4g-4.0",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/vegetal-a-iii",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/walzenwaschmittel-iii",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/conventional-wash-ra-1.0",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/dissolin-pel",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/schwego-mat-8449",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/solstar-4105",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/aceton",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/textil-und-mode/dowper-pure-power-safechem",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/ethylacetat-essigsaeureethylester",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/textil-und-mode/per-tetrachlorethylen-tetrachlorethen-perchlorethylen",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/ameisensaeure",
+      "zeit": "240"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/schwefelsaeure",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/5-motions-zirkon",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/alabaster",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/alpenrock-safran",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/amisul",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/aurocid",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/baccalin",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/bacillol",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/cara-process-zro2-white",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/cara-zirkonoxid-geruest",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/ceramex",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/ceramill-zi",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/colorstone-hast-sh-und-colorstone-fluid",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/combinette-aetzfluessigkeit-nem",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/dc-aetzfluessigkeit-aetzgel",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/ddbiozwiso",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/dentacid",
+      "zeit": "240"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/dental-algides-plus",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/dentaplast-opticast-giesskunststoff-fluessigkeit",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/dentaplast-opticast-pulver",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/dentavon",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/diromatic-fluid",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/textil-und-mode/dowper-pure-power-buefa",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/essigsaeure-1",
+      "zeit": "60"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/esthetic-base-gold",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/etchingcal-aetzgel",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/everest-zh-blank",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/fd-312",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/finocid",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/futuragen-fluessigkeit",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/futuragen-pulver",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/giroplast-blau",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/hera-ab-99",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/hera-am-99",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/hinrichs-dentalgipse",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/hinridon",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/hinripress",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/hinripress-vario",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/hydro-plaster",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/isoplast-ip",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/kohrsolin-extra",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/md-520",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/micro-print",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/microlyt-al",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/mikrozid-af-liquid",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/mucalgin",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/natriumhypochlorit-loesung-chlorbleichlauge",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/natronlauge",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/neacid",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/octa-baster",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/octa-dur",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/octa-fix",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/octa-flow",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/octa-mol",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/octa-scan",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/octa-rock",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/octa-stone",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/octa-stone-cn",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/octa-stone-m",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/octa-stone-nf",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/octa-superrock",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/orthocryl-farbkonzentrate",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/orthocryl-fluessigkeit",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/orthocryl-pulver",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/paladon-65-fluessigkeit",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/paladon-65-pulver",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/paladon-ultra-liquid",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/paladon-ultra-powder",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/paladur-fluessigkeit",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/paladur-pulver",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/palapress-fluessigkeit",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/palapress-pulver",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/palapress-vario-fluessigkeit",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/palapress-vario-pulver",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/palavit-55-vs-pulver",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/palavit-g-fluessigkeit",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/palavit-g-pulver",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/palaxpress-fluessigkeit",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/palaxpress-pulver",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/palaxpress-ultra-fluessigkeit",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/palaxpress-ultra-neue-rezeptur-fluessigkeit",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/palaxpress-ultra-pulver",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/pico-arti-speed",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/picodent-n-100",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/picodent-tauchdesinfektion",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/picodent-wischdesinfektion",
+      "zeit": "120"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/premeco-line-giesskunststoff-monomer",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/premeco-line-prothetik-color-system",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/probase-cold-monomer",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/probase-cold-polymer",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/pursept",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/quadro-rock-plus",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/quartamon-med",
+      "zeit": "60"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/salzsaeure",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/siladent-dentalgipse-1-5",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/siladon",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/silapress",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/silapress-vario",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/silosept",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/sokrena",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/solstar-4065",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/stammoform",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/titanbeize",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/reinstoffe/wasserstoffperoxid",
+      "zeit": "120"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/weropress-monomer",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/weropress-polymer",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://praevention-bgetem.bg-kooperation.de/datenbanken/gefahrstoffe/dentaltechnik/zeno-zr-bridge-zeno-zr-crown",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/a-310",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/a-325",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/a-410",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/amg-100",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/aiii-hydrosolv",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/amg-iii",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/amg-iv",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/amg-v",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/appro-hmk1-wash",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/b-r-wash-z-055",
+      "zeit": "120"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/baldwin-1795",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/balkleen-uv",
+      "zeit": "240"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/blau-410-aiii",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/bluewash-combi-174",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/bluewash-fs-100",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/bluewash-fs-160",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/bluewash-fs-180",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/bluewash-rs-102",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/bluewash-rs-182",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/bluewash-uv-176",
+      "zeit": "120"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/boettcherin-60",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/boettcherin-60-f",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/boettcherin-100",
+      "zeit": "120"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/boettcherin-100-f",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/boettcherin-c-29",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/boettcherin-hs",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/digitech-pel",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/dip-solution-bo",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/dyna-eco-wash-857",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/dyna-eco-wash-880",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/dyna-uv-wash-906",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/dyna-wash-g60",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/dyna-wash-g101",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/eggolan-e-10101",
+      "zeit": "120"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/eggolan-e-10111",
+      "zeit": "120"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/elettra-1.0",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/elettra-1.2",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/elettra-non-voc-2.0",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/elettra-non-voc-5.0",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/elettra-uv-1.0",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/enpurex-druckwalzenreiniger-power",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/eurostar-65-2.9",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/eurostar-65-5.0",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/eurostar-100-w",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/eurostar-nv-5.0",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/eurostar-nv-8.0",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/eurostar-uv-mix",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/feboclean-bio-3",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/filtrate-100-wash",
+      "zeit": "120"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/filtrate-60-wash",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/green-wash-hs",
+      "zeit": "120"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/hydrowash-roto",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/infinity-wash-hmk-uv",
+      "zeit": "120"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/infinity-wash-hmk-1-wm",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/inkermatic-super-g",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/magnitek-auto-wash-wm-1",
+      "zeit": "120"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/natursol",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/news-75-wash",
+      "zeit": "120"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/newsclean-80",
+      "zeit": "120"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/non-voc-wash",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/power-sol-eco-nh-10",
+      "zeit": "60"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/poewr-sol-eco-nh-30",
+      "zeit": "60"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/powerklene-pel",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/premium-wash-60",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/prepac-1633-uv",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/prepac-1639",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/print-wash-660",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/print-wash-660-24",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/print-wash-660-34",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/print-wash-660-45",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/rotowash-60",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/rotowash-60-1010",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/rotowash-60-1060",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/rotowash-60-1482",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/rotowash-100-1480",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/rotowash-100-5104",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/saphira-wash-562",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/schwego-aqua-clean-8460",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/schwego-aqua-clean-8462",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/schwego-aqua-clean-8470",
+      "zeit": "auswahl"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/schwego-aqua-clean-cc-24",
+      "zeit": "60"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/schwego-aqua-gel-8481",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/schwego-aqua-solv-8480",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/schwego-clean-cc22",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/schwego-damp-8191",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/schwego-mat-8445",
+      "zeit": "120"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/schwego-mat-8443",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/schwego-mat-uv-8455",
+      "zeit": "120"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/schwego-mat-uv-8457",
+      "zeit": "120"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/schwego-power-clean-8483",
+      "zeit": "120"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/sfw-9237",
+      "zeit": "10"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/solstar-88",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/solstar-4066",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/solstar-4160",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/solstar-uv-1011",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/topkleen-105",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/topkleen-e",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/trio-wash-100-sf",
+      "zeit": "120"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/trio-wash-100-uv",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/uniwash-4g",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/uv-mix-6.7",
+      "zeit": "60"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/uv-nc-pel",
+      "zeit": "120"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/uv-wash-2001",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/uv-wash",
+      "zeit": "120"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/uvkleen",
+      "zeit": "240"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/v60-plus-wash",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/wash-213q",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/wash-im-660",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/wash-im-820",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/washmax-60-10-mi",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/washmax-60-65-mi",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/washmax-100-10-mi",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/washmax-100-60-fi",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/washmax-uvc-100.01",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/win-wash-80cs",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/win-wash-a60",
+      "zeit": "480"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/win-wash-a60qs",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/win-wash-hsac",
+      "zeit": "30"
+    },
+    {
+      "gefahrstoff": "http://emissionsarme-produkte.bgetem.de/datenbank-chemie-dp/produktliste-wasch-und-reinigungsmittel-im-offsetdruck/xtrawash-plus-60",
+      "zeit": "30"
+    }
+  ],
+  "gesamtlange_bis": 625,
+  "gesamtlange_von": 575,
+  "hersteller": {
+    "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/hand-und-hautschutzprodukte/kcl-gmbh",
+    "@type": "nva.chemiedp.hersteller",
+    "description": "",
+    "review_state": "published",
+    "title": "KCL GmbH"
+  },
+  "id": "combi-latex-403",
+  "innen": [],
+  "is_folderish": true,
+  "items": [],
+  "items_total": 0,
+  "kontaktkaelte": null,
+  "kontaktwaerme": null,
+  "konvektive_hitze": null,
+  "konvektive_kaelte": null,
+  "language": "",
+  "layout": "schutzhandschuhview",
+  "material_aussen": [
+    "naturkautschuk"
+  ],
+  "material_innen": [
+    "naturkautschuk"
+  ],
+  "mechanik": [
+    "din_en_388_alt"
+  ],
+  "metallspritzer": null,
+  "modified": "2018-10-10T12:28:47+02:00",
+  "norm374_2003": [
+    "chemikalien_spez",
+    "bakt_pilze"
+  ],
+  "norm374_2016": "TypB",
+  "norm374_5": "keine",
+  "parent": {
+    "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe",
+    "@type": "Folder",
+    "description": "",
+    "review_state": "published",
+    "title": "Schutzhandschuhe"
+  },
+  "profilierung": [
+    "Fingerspitzen geraut",
+    "Handflaeche geraut"
+  ],
+  "review_state": "published",
+  "rights": null,
+  "riss": "1",
+  "schichtstaerke_max": 1.1,
+  "schichtstaerke_min": 0.9,
+  "schnittcoup": "1",
+  "schnittiso": null,
+  "stick": "x",
+  "stoss": null,
+  "strahlungswaerme": null,
+  "subjects": [],
+  "text": {
+    "content-type": "text/html",
+    "data": "<h3>Funktion</h3>\r\n<ul>\r\n<li>AQL &lt; 0,65</li>\r\n<li>weite Stulpe für schnelles An- und Ausziehen</li>\r\n</ul>\r\n<h3>Nutzen</h3>\r\n<ul>\r\n<li>sehr gute mechanische Belastbarkeit</li>\r\n<li>gute Griffigkeit bei nassen Teilen</li>\r\n<li>sehr hohe Elastizität</li>\r\n<li>sehr gute Kälteflexibilität</li>\r\n<li>gute Stichfestigkeit</li>\r\n</ul>",
+    "encoding": "utf-8"
+  },
+  "title": "Combi - Latex 403",
+  "version": "current",
+  "wasserdichtigkeit": null
+}

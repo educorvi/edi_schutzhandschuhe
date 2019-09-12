@@ -5,6 +5,7 @@
                                :index="index"
                                :key="index"
                                :keine="keine"
+                               :selected="selected[index]"
                                @remove="remove"
                                @selected="selectedChanged"
                                v-for="(sel, index) in selected">
@@ -34,8 +35,7 @@
             },
             remove(i) {
                 console.log("remove from " + i);
-                console.log(this.selected);
-                this.selected.splice(i, 1)
+                console.log(this.selected.splice(i, 1))
             },
             selectedChanged(o) {
                 this.selected[o.i] = o.id;

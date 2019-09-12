@@ -20,7 +20,7 @@ export default new Router({
         },
         {
             path: '/handschuh/:id',
-            name: 'Handschuh',
+            name: 'Handschuhdetails',
             component: () => import("./views/Handschuh")
         },
 
