@@ -64,13 +64,8 @@
         },
         mounted() {
             axios.get(this.id, {
-                withCredentials: true,
                 headers: {
                     Accept: "application/json"
-                },
-                auth: {
-                    username: 'bgetem',
-                    password: 'rhein'
                 }
             }).then(res => {
                 this.handschuh = res.data;
