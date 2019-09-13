@@ -11,7 +11,7 @@
         </b-card>
 
         <weitere-anforderungen/>
-        <b-button class="float-right mt-2">Weiter</b-button>
+        <b-button @click="suche" class="float-right mt-2">Weiter</b-button>
     </div>
 </template>
 
@@ -25,6 +25,11 @@
         components: {WeitereAnforderungen, Gef_Biologisch, Gef_Chemisch},
         data() {
             return {
+            }
+        },
+        methods: {
+            suche() {
+                this.$router.push("/suche/ergebnisse/test§ergebnisse.json")
             }
         },
     }

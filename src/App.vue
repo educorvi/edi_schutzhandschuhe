@@ -26,7 +26,9 @@
         padding-bottom: 10px;
     }
 
+
 </style>
+
 <script>
     import Headbar from "@/components/Navigation/Headbar";
     import {mapGetters} from "vuex";

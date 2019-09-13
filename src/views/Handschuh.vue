@@ -4,21 +4,45 @@
     </div>
     <div v-else>
         <div class="w-100 text-center">
-            <h4>{{handschuh.title}}</h4>
+            <h4 style="color: #014B94">{{handschuh.title}}</h4>
         </div>
-       <b-row>
+       <b-row align-v="center">
            <b-col>
-                <b-img class="w-100 embed-responsive-16by9" :src="handschuh.bild.download"></b-img>
+                <b-img class="w-100" :src="handschuh.bild.download"></b-img>
            </b-col>
            <b-col>
-                <div class="rounded-top border border-dark pl-1 pt-1" style="border-color: black; background-color: #e2e2e2">
+                <div class="rounded-top border border-primary pl-1 pt-1" style="background-color: #e2e2e2">
                     <p class="mb-1"><b>Hersteller:</b><br>{{handschuh.hersteller.title}}</p>
                 </div>
-               <div class="border border-top-0 border-dark pl-1 pt-1" style="border-color: black; background-color: #e2e2e2">
-                    <p class="mb-1"><b>Außenmaterial:</b><br>{{handschuh.hersteller.title}}</p>
+               <div class="border border-top-0 border-primary pl-1 pt-1" style="background-color: #e2e2e2">
+                   <p class="mb-1"><b>Außenmaterial:</b><span v-for="(material, index) in handschuh.material_aussen" :key="'a_'+index"><br>{{material}}</span> </p>
+                </div>
+              <div class="border border-top-0 border-primary pl-1 pt-1" style="background-color: #e2e2e2">
+                   <p class="mb-1"><b>Außenmaterial:</b><span v-for="(material, index)  in handschuh.material_aussen" :key="'i_'+index"><br>{{material}}</span> </p>
+                </div>
+               <div class="border border-top-0 border-primary pl-1 pt-1" style="background-color: #e2e2e2">
+                   <p class="mb-1"><b>Profilierung:</b><span v-for="(profil, index)  in handschuh.profilierung" :key="'p_'+index"><br>{{profil}}</span> </p>
+                </div>
+               <div class="border border-top-0 border-primary pl-1 pt-1" style="background-color: #e2e2e2">
+                    <p class="mb-1"><b>Schichtstärke:</b><br>
+                        <span v-if="handschuh.schichtstaerke_min">{{handschuh.schichtstaerke_min}}mm</span>
+                        <span v-if="handschuh.schichtstaerke_min && handschuh.schichtstaerke_max"> - </span>
+                        <span v-if="handschuh.schichtstaerke_max">{{handschuh.schichtstaerke_max}}mm</span>
+                    </p>
+                </div>
+               <div class="rounded-bottom border border-top-0 border-primary pl-1 pt-1" style="background-color: #e2e2e2">
+                    <p class="mb-1"><b>Schichtstärke:</b><br>
+                        <span v-if="handschuh.gesamtlange_von">{{handschuh.gesamtlange_von}}mm</span>
+                        <span v-if="handschuh.gesamtlange_von && handschuh.gesamtlange_bis"> - </span>
+                        <span v-if="handschuh.gesamtlange_bis">{{handschuh.gesamtlange_bis}}mm</span>
+                    </p>
                 </div>
            </b-col>
        </b-row>
+<!--        <b-tabs>-->
+<!--            <b-tab title="Gefahrstoffschutz"-->
+<!--        </b-tabs>-->
+<!--        @TODO-->
     </div>
 </template>
 
@@ -39,24 +63,24 @@
             }
         },
         mounted() {
-            // axios.get(this.id, {
-            //     withCredentials: true,
-            //     headers: {
-            //         Accept: "application/json"
-            //     },
-            //     auth: {
-            //         username: 'bgetem',
-            //         password: 'rhein'
-            //     }
-            // }).then(res => {
-            //     this.handschuh = res.data;
-            //     this.loading = false;
-            // })
-
-            axios.get("/test/handschuh.json").then(res => {
+            axios.get(this.id, {
+                withCredentials: true,
+                headers: {
+                    Accept: "application/json"
+                },
+                auth: {
+                    username: 'bgetem',
+                    password: 'rhein'
+                }
+            }).then(res => {
                 this.handschuh = res.data;
                 this.loading = false;
             })
+
+            // axios.get("/test/handschuh.json").then(res => {
+            //     this.handschuh = res.data;
+            //     this.loading = false;
+            // })
         }
     }
 </script>

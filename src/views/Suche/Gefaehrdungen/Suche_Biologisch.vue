@@ -11,7 +11,19 @@
         </b-card>
 
         <weitere-anforderungen/>
-        <b-button class="float-right mt-2">Weiter</b-button>
+
+<!--        <md-steppers md-vertical>-->
+<!--            <md-step md-label="Primäre Gefährdung">-->
+<!--                <Gef_Biologisch ref="bio"></Gef_Biologisch>-->
+<!--            </md-step>-->
+<!--            <md-step md-label="Weitere Gefährdung" md-description="Optional">-->
+<!--                <Gef_Chemisch keine="true"/>-->
+<!--            </md-step>-->
+<!--            <md-step md-label="Weitere Anforderungen" md-description="Optional">-->
+<!--                <weitere-anforderungen></weitere-anforderungen>-->
+<!--            </md-step>-->
+<!--        </md-steppers>-->
+        <b-button @click="suche" class="float-right mt-2">Weiter</b-button>
     </div>
 </template>
 
@@ -25,6 +37,11 @@
         components: {Gef_Chemisch, WeitereAnforderungen, Gef_Biologisch},
         data() {
             return {
+            }
+        },
+        methods: {
+            suche() {
+                this.$router.push("/suche/ergebnisse/test§ergebnisse.json")
             }
         },
     }

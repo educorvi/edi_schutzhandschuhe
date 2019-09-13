@@ -47,6 +47,11 @@ export default new Router({
             component: () => import("./views/Suche/Gefaehrdungen/Suche_Mechanisch")
         },
         {
+            path: '/suche/ergebnisse/:query',
+            name: 'Suchergebnisse',
+            component: () => import("./views/Suche/Ergebnisse")
+        },
+        {
             path: '/suche/:number',
             name: 'suche/num',
             beforeEnter: (to) => {

@@ -22,7 +22,7 @@
 
             <b-checkbox class="mt-3" v-model="stoesse"><b>Schutz vor Stößen</b></b-checkbox>
         </b-form>
-        <b-button class="float-right mt-2">Weiter</b-button>
+        <b-button @click="suche" class="float-right mt-2">Weiter</b-button>
     </div>
 </template>
 
@@ -57,6 +57,11 @@
                         text: "hoch"
                     },
                 ]
+            }
+        },
+        methods: {
+            suche() {
+                this.$router.push("/suche/ergebnisse/test§ergebnisse.json")
             }
         },
     }
