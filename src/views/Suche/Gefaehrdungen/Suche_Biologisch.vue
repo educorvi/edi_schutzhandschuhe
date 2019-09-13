@@ -23,7 +23,7 @@
 <!--                <weitere-anforderungen></weitere-anforderungen>-->
 <!--            </md-step>-->
 <!--        </md-steppers>-->
-        <b-button @click="suche" class="float-right mt-2">Weiter</b-button>
+        <b-button @click="suche"  class="float-right mt-2">Weiter</b-button>
     </div>
 </template>
 
@@ -41,7 +41,15 @@
         },
         methods: {
             suche() {
-                this.$router.push("/suche/ergebnisse/test§ergebnisse.json")
+                this.$router.push("/suche/ergebnisse/"+JSON.stringify(this.getQuery({bio: this.$refs.bio.gewGefaehrdung})));
+            },
+            getQuery(params) {
+
+                return {
+                    // fullobjects: 1,
+                    Biogefahr: params.bio,
+                    portal_type: "Schutzhandschuh"
+                };
             }
         },
     }

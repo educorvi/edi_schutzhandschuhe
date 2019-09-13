@@ -1,9 +1,10 @@
 <template>
     <b-card @click="showHandschuh" class="text-center mt-2" no-body style="width: fit-content; height: fit-content">
-        <b-card-header>
+        <div v-if="!loading">
+            <b-card-header>
             <p class="mb-n2" style="color: #014B94">
                 <b>{{ergebnis.title}}</b>
-                <br>({{ergebnis.hersteller.title}})
+                <br>({{ergebnis_long.hersteller.title}})
             </p>
         </b-card-header>
 
@@ -11,7 +12,7 @@
             <b-row align-v="center">
                 <b-col>
                     <div class="ergebnis_card">
-                        <b-img-lazy alt="Handschuh" :src="ergebnis.bild.scales.thumb.download"></b-img-lazy>
+                        <b-img-lazy v-if="ergebnis_long.bild" alt="Handschuh" :src="ergebnis_long.bild.scales.thumb.download"></b-img-lazy>
                     </div>
                 </b-col>
                 <b-col>
@@ -19,12 +20,18 @@
                 </b-col>
             </b-row>
         </b-card-body>
+        </div>
+
+        <div class="w-100 mt-2 text-center" v-else>
+            <b-spinner variant="dark"></b-spinner>
+        </div>
 
 
     </b-card>
 </template>
 
 <script>
+    import axios from "axios"
 
     export default {
         name: "Ergebnis",
@@ -32,7 +39,7 @@
         data() {
             return {
                 loading: true,
-
+                ergebnis_long: {}
             }
         },
         methods: {
@@ -41,6 +48,14 @@
             }
         },
         mounted() {
+            axios.get(this.ergebnis["@id"], {
+                headers: {
+                    Accept: "application/json"
+                }
+            }).then(res => {
+                this.ergebnis_long = res.data;
+                this.loading = false;
+            })
         }
     }
 </script>

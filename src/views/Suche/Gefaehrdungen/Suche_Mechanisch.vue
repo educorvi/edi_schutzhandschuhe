@@ -61,7 +61,7 @@
         },
         methods: {
             suche() {
-                this.$router.push("/suche/ergebnisse/test§ergebnisse.json")
+                this.$router.push("/suche/ergebnisse/"+JSON.stringify({portal_type: "Schutzhandschuh"}))
             }
         },
     }

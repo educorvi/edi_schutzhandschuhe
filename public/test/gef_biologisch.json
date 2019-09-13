@@ -2,11 +2,13 @@
   "items": [
     {
       "@id": 1,
-      "title": "Bakterien und Pilze"
+      "title": "Bakterien und Pilze",
+      "query": "bakterienpilze"
     },
     {
       "@id": 2,
-      "title": "Bakterien, Pilze und Viren"
+      "title": "Bakterien, Pilze und Viren",
+      "query": "bakterienpilzeviren"
     }
   ]
 }
