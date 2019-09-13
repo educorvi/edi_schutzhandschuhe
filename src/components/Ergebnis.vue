@@ -1,5 +1,5 @@
 <template>
-    <b-card class="text-center mt-2" no-body style="width: fit-content; height: fit-content">
+    <b-card @click="showHandschuh" class="text-center mt-2" no-body style="width: fit-content; height: fit-content">
         <b-card-header>
             <p class="mb-n2" style="color: #014B94">
                 <b>{{ergebnis.title}}</b>
@@ -11,7 +11,7 @@
             <b-row align-v="center">
                 <b-col>
                     <div class="ergebnis_card">
-                        <b-img-lazy alt="Handschuh" src="https://picsum.photos/90/128"></b-img-lazy>
+                        <b-img-lazy alt="Handschuh" :src="ergebnis.bild.scales.thumb.download"></b-img-lazy>
                     </div>
                 </b-col>
                 <b-col>
@@ -33,6 +33,11 @@
             return {
                 loading: true,
 
+            }
+        },
+        methods: {
+            showHandschuh() {
+                this.$router.push("/handschuh/" + this.ergebnis["@id"].replace(/\//g, "§"));
             }
         },
         mounted() {

@@ -1,22 +1,22 @@
 {
-  "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/@search?fullobjects=1&portal_type=Schutzhandschuh&Gefahrstoffe.query=http%3A%2F%2Fpraevention-bgetem.bg-kooperation.de%2Fdatenbanken%2Fgefahrstoffe%2Freinstoffe%2Fameisensaeure",
+  "@id": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/@search?fullobjects=1&portal_type=Schutzhandschuh&Gefahrstoffe.query=http%3A%2F%2Fpraevention-bgetem.bg-kooperation.de%2Fdatenbanken%2Fgefahrstoffe%2Freinstoffe%2Fameisensaeure",
   "items": [
     {
       "@components": {
         "actions": {
-          "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@actions"
+          "@id": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@actions"
         },
         "breadcrumbs": {
-          "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@breadcrumbs"
+          "@id": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@breadcrumbs"
         },
         "navigation": {
-          "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@navigation"
+          "@id": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@navigation"
         },
         "workflow": {
-          "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@workflow"
+          "@id": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@workflow"
         }
       },
-      "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403",
+      "@id": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403",
       "@type": "Schutzhandschuh",
       "UID": "a19516af98bd4c81945755457f58f368",
       "abrieb": "1",
@@ -29,42 +29,42 @@
       "allow_discussion": false,
       "bild": {
         "content-type": "image/png",
-        "download": "test/bild.png",
+        "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@@images/bild",
         "filename": "Bildschirmfoto 2017-11-16 um 16.23.59.png",
         "height": 1306,
         "scales": {
           "icon": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@@images/bild/icon",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@@images/bild/icon",
             "height": 32,
             "width": 13
           },
           "large": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@@images/bild/large",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@@images/bild/large",
             "height": 768,
             "width": 331
           },
           "listing": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@@images/bild/listing",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@@images/bild/listing",
             "height": 16,
             "width": 6
           },
           "mini": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@@images/bild/mini",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@@images/bild/mini",
             "height": 199,
             "width": 86
           },
           "preview": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@@images/bild/preview",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@@images/bild/preview",
             "height": 399,
             "width": 172
           },
           "thumb": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@@images/bild/thumb",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@@images/bild/thumb",
             "height": 128,
             "width": 55
           },
           "tile": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@@images/bild/tile",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-403/@@images/bild/tile",
             "height": 64,
             "width": 27
           }
@@ -1150,7 +1150,7 @@
       "gesamtlange_bis": 625,
       "gesamtlange_von": 575,
       "hersteller": {
-        "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/hand-und-hautschutzprodukte/kcl-gmbh",
+        "@id": "https://praevention-bgetem.bg-kooperation.de/datenbanken/hand-und-hautschutzprodukte/kcl-gmbh",
         "@type": "nva.chemiedp.hersteller",
         "description": "",
         "review_state": "published",
@@ -1183,7 +1183,7 @@
       "norm374_2016": "TypB",
       "norm374_5": "keine",
       "parent": {
-        "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe",
+        "@id": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe",
         "@type": "Folder",
         "description": "",
         "review_state": "published",
@@ -1216,19 +1216,19 @@
     {
       "@components": {
         "actions": {
-          "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-395/@actions"
+          "@id": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-395/@actions"
         },
         "breadcrumbs": {
-          "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-395/@breadcrumbs"
+          "@id": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-395/@breadcrumbs"
         },
         "navigation": {
-          "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-395/@navigation"
+          "@id": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-395/@navigation"
         },
         "workflow": {
-          "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-395/@workflow"
+          "@id": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-395/@workflow"
         }
       },
-      "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-395",
+      "@id": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-395",
       "@type": "Schutzhandschuh",
       "UID": "32979fe163014506a48fd904df24087f",
       "abrieb": "1",
@@ -1241,42 +1241,42 @@
       "allow_discussion": false,
       "bild": {
         "content-type": "image/jpeg",
-        "download": "test/bild.png",
+        "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-395/@@images/bild",
         "filename": "Combi _Latex_395 .jpg",
         "height": 407,
         "scales": {
           "icon": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-395/@@images/bild/icon",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-395/@@images/bild/icon",
             "height": 32,
             "width": 21
           },
           "large": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-395/@@images/bild/large",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-395/@@images/bild/large",
             "height": 407,
             "width": 276
           },
           "listing": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-395/@@images/bild/listing",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-395/@@images/bild/listing",
             "height": 16,
             "width": 10
           },
           "mini": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-395/@@images/bild/mini",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-395/@@images/bild/mini",
             "height": 200,
             "width": 135
           },
           "preview": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-395/@@images/bild/preview",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-395/@@images/bild/preview",
             "height": 400,
             "width": 271
           },
           "thumb": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-395/@@images/bild/thumb",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-395/@@images/bild/thumb",
             "height": 128,
             "width": 86
           },
           "tile": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-395/@@images/bild/tile",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/combi-latex-395/@@images/bild/tile",
             "height": 64,
             "width": 43
           }
@@ -2355,7 +2355,7 @@
       "gesamtlange_bis": 410,
       "gesamtlange_von": 390,
       "hersteller": {
-        "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/hand-und-hautschutzprodukte/kcl-gmbh",
+        "@id": "https://praevention-bgetem.bg-kooperation.de/datenbanken/hand-und-hautschutzprodukte/kcl-gmbh",
         "@type": "nva.chemiedp.hersteller",
         "description": "",
         "review_state": "published",
@@ -2387,7 +2387,7 @@
       "norm374_2016": "TypB",
       "norm374_5": "keine",
       "parent": {
-        "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe",
+        "@id": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe",
         "@type": "Folder",
         "description": "",
         "review_state": "published",
@@ -2419,19 +2419,19 @@
     {
       "@components": {
         "actions": {
-          "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/tricopren-725/@actions"
+          "@id": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/tricopren-725/@actions"
         },
         "breadcrumbs": {
-          "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/tricopren-725/@breadcrumbs"
+          "@id": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/tricopren-725/@breadcrumbs"
         },
         "navigation": {
-          "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/tricopren-725/@navigation"
+          "@id": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/tricopren-725/@navigation"
         },
         "workflow": {
-          "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/tricopren-725/@workflow"
+          "@id": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/tricopren-725/@workflow"
         }
       },
-      "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/tricopren-725",
+      "@id": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/tricopren-725",
       "@type": "Schutzhandschuh",
       "UID": "03a7400f519d4b2bb13915d7b4274e6b",
       "abrieb": "2",
@@ -2442,42 +2442,42 @@
       "allow_discussion": false,
       "bild": {
         "content-type": "image/jpeg",
-        "download": "test/bild.png",
+        "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/tricopren-725/@@images/bild",
         "filename": "tricopren_725.jpg",
         "height": 470,
         "scales": {
           "icon": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/tricopren-725/@@images/bild/icon",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/tricopren-725/@@images/bild/icon",
             "height": 32,
             "width": 18
           },
           "large": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/tricopren-725/@@images/bild/large",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/tricopren-725/@@images/bild/large",
             "height": 470,
             "width": 276
           },
           "listing": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/tricopren-725/@@images/bild/listing",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/tricopren-725/@@images/bild/listing",
             "height": 16,
             "width": 9
           },
           "mini": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/tricopren-725/@@images/bild/mini",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/tricopren-725/@@images/bild/mini",
             "height": 200,
             "width": 117
           },
           "preview": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/tricopren-725/@@images/bild/preview",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/tricopren-725/@@images/bild/preview",
             "height": 400,
             "width": 234
           },
           "thumb": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/tricopren-725/@@images/bild/thumb",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/tricopren-725/@@images/bild/thumb",
             "height": 128,
             "width": 75
           },
           "tile": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/tricopren-725/@@images/bild/tile",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/tricopren-725/@@images/bild/tile",
             "height": 64,
             "width": 37
           }
@@ -3564,7 +3564,7 @@
       "gesamtlange_bis": 410,
       "gesamtlange_von": 390,
       "hersteller": {
-        "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/hand-und-hautschutzprodukte/kcl-gmbh",
+        "@id": "https://praevention-bgetem.bg-kooperation.de/datenbanken/hand-und-hautschutzprodukte/kcl-gmbh",
         "@type": "nva.chemiedp.hersteller",
         "description": "",
         "review_state": "published",
@@ -3598,7 +3598,7 @@
       "norm374_2016": "TypB",
       "norm374_5": "keine",
       "parent": {
-        "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe",
+        "@id": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe",
         "@type": "Folder",
         "description": "",
         "review_state": "published",
@@ -3630,19 +3630,19 @@
     {
       "@components": {
         "actions": {
-          "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/camapren-720/@actions"
+          "@id": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/camapren-720/@actions"
         },
         "breadcrumbs": {
-          "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/camapren-720/@breadcrumbs"
+          "@id": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/camapren-720/@breadcrumbs"
         },
         "navigation": {
-          "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/camapren-720/@navigation"
+          "@id": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/camapren-720/@navigation"
         },
         "workflow": {
-          "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/camapren-720/@workflow"
+          "@id": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/camapren-720/@workflow"
         }
       },
-      "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/camapren-720",
+      "@id": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/camapren-720",
       "@type": "Schutzhandschuh",
       "UID": "0c13c9dac0b345b2803048841d07d0b2",
       "abrieb": "1",
@@ -3655,42 +3655,42 @@
       "allow_discussion": false,
       "bild": {
         "content-type": "image/jpeg",
-        "download": "test/bild.png",
+        "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/camapren-720/@@images/bild",
         "filename": "Camapren_720.jpg",
         "height": 399,
         "scales": {
           "icon": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/camapren-720/@@images/bild/icon",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/camapren-720/@@images/bild/icon",
             "height": 32,
             "width": 22
           },
           "large": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/camapren-720/@@images/bild/large",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/camapren-720/@@images/bild/large",
             "height": 399,
             "width": 276
           },
           "listing": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/camapren-720/@@images/bild/listing",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/camapren-720/@@images/bild/listing",
             "height": 16,
             "width": 11
           },
           "mini": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/camapren-720/@@images/bild/mini",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/camapren-720/@@images/bild/mini",
             "height": 200,
             "width": 138
           },
           "preview": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/camapren-720/@@images/bild/preview",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/camapren-720/@@images/bild/preview",
             "height": 399,
             "width": 276
           },
           "thumb": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/camapren-720/@@images/bild/thumb",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/camapren-720/@@images/bild/thumb",
             "height": 128,
             "width": 88
           },
           "tile": {
-            "download": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/camapren-720/@@images/bild/tile",
+            "download": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe/camapren-720/@@images/bild/tile",
             "height": 64,
             "width": 44
           }
@@ -4629,7 +4629,7 @@
       "gesamtlange_bis": 310,
       "gesamtlange_von": 290,
       "hersteller": {
-        "@id": "http://praevention-bgetem.bg-kooperation.de/datenbanken/hand-und-hautschutzprodukte/kcl-gmbh",
+        "@id": "https://praevention-bgetem.bg-kooperation.de/datenbanken/hand-und-hautschutzprodukte/kcl-gmbh",
         "@type": "nva.chemiedp.hersteller",
         "description": "",
         "review_state": "published",
@@ -4662,7 +4662,7 @@
       "norm374_2016": "keine",
       "norm374_5": "keine",
       "parent": {
-        "@id": "http://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe",
+        "@id": "https://praevention-bgetem.bg-kooperation.de/hand-und-hautschutz/produkte/schutzhandschuhe",
         "@type": "Folder",
         "description": "",
         "review_state": "published",
